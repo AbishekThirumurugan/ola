@@ -1,0 +1,13 @@
+flask
+flask_mysqldb
+sys
+smtlib
+ssl
+email
+string
+os
+math
+random
+json
+jinja2
+mysql.connector
